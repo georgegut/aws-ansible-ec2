@@ -1,1 +1,2 @@
-# aws-ansible-ec2
+# devopstraining
+Training module for DevOps
